@@ -8,7 +8,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-páginas">Páginas</a> • 
+ <a href="#-análise-e-transformação">Análise e Transformação</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
 </p>
@@ -16,8 +16,7 @@
 ## 💻 Sobre o projeto 
 
  
-📟 Sales Report - Este projeto foi desenvolvido com o propósito de se assemelhar a um relátorios de vendas real, com diversas demonstrações e detalhes para melhor expor todas as informações relevantes de uma empresa.
-Este projeto possui inúmeras funcionalidades, as quais detalharemos mais adiante.
+📟 Análise e Transformação de Dados - Esse projeto teve como objetivo interpretar e transformar uma base de dados para a obtenção de informações pertinentes para a geração de um relatório simples de uma empresa.
 
 Projeto desenvolvido durante o **Bootcamp de Ciência de Dados com Python** da [DIO](https://www.dio.me/en).
 Esse bootcamp é uma experiência online, um programa com mais de 80 horas de experiência prática nas principais tecnologias que norteiam o Python, também oferece desafios de código e projetos individuais.
@@ -26,19 +25,16 @@ Esse bootcamp é uma experiência online, um programa com mais de 80 horas de ex
 
 ## ⚙️ Funcionalidades
 
-  - [x] Diversos demonstrativos gráficos;
-  - [x] Segmentadores por data completa ou ano;
-  - [x] Possibilidade de mudança de tipo de gráfico exibido;
-  - [x] Possibilidade de voltar o relatório as informações iniciais;
-  - [x] Troca de página;  
+  - [x] Diversos demonstrativos gráficos;  
 
 ---
 
-## 📄 Páginas
+## 📄 Análise e Transformação
 
-#### ATENÇÃO!
+A ideia proposta para este desáfio era responder as seguintes questões:
 
-O Sales Report foi feito pensado em desktop-first, no entanto, em breve traremos sua versão mobile.
+![questionario](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/b18eb764-81d5-43f3-9357-55c35245b5a0)
+
 
 ### Desktop 
 
