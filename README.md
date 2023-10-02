@@ -31,9 +31,32 @@ Esse bootcamp é uma experiência online, um programa com mais de 80 horas de ex
 
 ## 📄 Análise e Transformação
 
-A ideia proposta para este desáfio era responder as seguintes questões:
+Neste desáfio a ideia era a criação e hospedagem de um banco de dados que relacionava informações sobre os departamentos, suas localizações, funcionários e seus dependentes dentro da plataforma [Azure](https://azure.microsoft.com/pt-br/), e após isso realizar uma análise detalhada para as seguintes questões:
 
 ![questionario](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/b18eb764-81d5-43f3-9357-55c35245b5a0)
+
+### ATENÇÃO!
+
+#### A fim de não compromoter dados seguros, alguns dados foram modificados apenas para sanar essas questões.
+
+![endereco](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/bc6af0d3-0461-46c5-b7ea-68d75be40cf4)
+
+
+Anteriormente, a coluna "endereço" era algo complexo, e para melhorar sua visualização, resolvemos desfragmenta-la em "Número, Bairro, Cidade e Estado"
+
+![mesclaEmpregadosEDpt](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/b0aeac00-31af-411a-a699-22a7bf8ea7c9)
+
+
+Dentro da base dados recebida, tinhamos no inicio duas tabelas separadas "departamentos, empregados" então, decidimos mescla-las numa só para facilitar a compreensão dos dados, como mostra o exemplo acima.
+
+Foi solicitado também a junção de dados entre "Gerentes" e "Gerenciados" com isso foi realizada a mescla entre a tabela "empregados" e "departamento dos empregados". Algo importante de se ressaltar, é que neste caso apesar de termos acesso ao identificador do gerente de cada funcionário inicialmente na tabela "empregados" não tinhamos acesso ao seu nome, então não seria possível atribuir os dados dentro da própria tabela, a unica forma encontrada foi realizando a mescla com outra tabela. 
+
+![gerentesEEmpregados](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/bbb5fb64-995d-46c9-9df5-e0766b991ed1)
+
+
+E por fim era necessário realizar a conexão entre as tabelas "Departamentos" e "Localizações" afim de unir suas informações disponibilizando uma visualização simples, clara e objetiva dos dados.
+
+![departamentosELocalizações](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/fb7061f2-b018-4172-8b27-424447bad797)
 
 
 ### Desktop 
