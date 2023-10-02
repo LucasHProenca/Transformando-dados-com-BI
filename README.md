@@ -25,7 +25,7 @@ Esse bootcamp é uma experiência online, um programa com mais de 80 horas de ex
 
 ## ⚙️ Funcionalidades
 
-  - [x] Diversos demonstrativos gráficos;  
+  - [x] Demonstrativos gráficos;  
 
 ---
 
@@ -59,42 +59,17 @@ E por fim era necessário realizar a conexão entre as tabelas "Departamentos" e
 ![departamentosELocalizações](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/fb7061f2-b018-4172-8b27-424447bad797)
 
 
-### Desktop 
+### Relatório 
 
-#### Página 1 - Relatório de Vendas 
+Para demonstrar na prática do que essa base de dados se trata, criamos o seguinte demonstrativo. 
 
-![VendasP1](https://github.com/LucasHProenca/Power-BI-Analyst/assets/106993403/b2d7f23b-3300-4795-9031-a3d12d076312)
-
-A página inicial do relatório pode ser vista de duas formas diferentes: Na primeira, como podemos observar pela foto acima, os gráficos de Vendas X Segmento e Total de Vendas X País são respectivamente, um gráfico de barras e um mapa, no entanto os botões presentes próximos aos mesmos nos possibilitam a alteração para um gráfico no formato de Donut, no caso de Vendas X Segmento, e um Tree Map, no caso de Total de Vendas X País, como podemos observar na imagem abaixo:
-
-![VendasP@](https://github.com/LucasHProenca/Power-BI-Analyst/assets/106993403/06152f5b-21b6-4c32-8ad1-0ace28e7ab41)
+![relatorio](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/2b17c162-7fa3-4fc1-82b5-b509076aa9b5)
 
 
-Lembrando que, é possível utilizar diversas ferramentas disponíveis neste relatório para uma visualização mais aprofundada, como por exemplo:
+Como podemos ver nos dados do relatório acima, podemos ver quem são os gerentes, assim como quem são seus respectivos funcionários, a localização de cada departamento, com o salário de todos os funcionários pudemos comprovar que James Borg possui o maior cargo dentro da empresa, e próximo a ele Jennifer Wallace, Franklin Wrong e Ramesh Narayan ocupam as próximas posições, sendo os dois primeiros gerentes e o terceiro pudemos concluir que provavelmente será promovido em breve, considerando a proximidade salarial entre ele e os atuais gerentes.
+Também podemos ver um mapa demonstrando o salário dos empregados de acordo com a cidade que trabalham e seu genero.
 
-![VendasP3](https://github.com/LucasHProenca/Power-BI-Analyst/assets/106993403/50eafb8c-8bcb-4bb1-9873-5fca36bf00e2)
-
-
-Caso queira alterar o período de análise, basta alterar no segmentador localizado no canto superior direito, como podemos ver na foto acima, agora o intervalo de análise é de exatamente 1 ano, entre 01/12/2013 e 01/12/2014.
-
-![VendasP4](https://github.com/LucasHProenca/Power-BI-Analyst/assets/106993403/6da822e1-401b-42f5-828a-688d0b2799fa)
-
-
-Também é possível selecionar apenas um mês ou um produto para a análise, no exemplo acima, foi selecionado o mês de outubro e automaticamente todos os gráficos se alteraram para trazer apenas estes dados.
-
-Caso queira voltar aos dados iniciais do relatório, basta clicar no icone de borracha localizado no canto superior direito.
-
-Para acessar a segunda página, basta clicar na seta localizada no canto inferior esquerdo.
-
-#### Página 2 - Relatório de Lucros Detalhado
-
-![LucroP1](https://github.com/LucasHProenca/Power-BI-Analyst/assets/106993403/df118801-780e-4057-bafa-5edbd110f469)
-
-
-Já nesta página, podemos observar um detalhamento focado nos lucros, tanto por produto, quanto por ano, país, segmento e até mesmo por trimestre. Na tela inicial temos informações gerais sobre os lucros, mas para uma análise mais detalhada, também é possível utilizar o segmentador para visualizar apenas um ano desejado por exemplo, enquanto na primeira visualização estavamos dando foco para o ano de 2014, nesta, daremos foco ao ano de 2013.
-
-![LucroP2](https://github.com/LucasHProenca/Power-BI-Analyst/assets/106993403/de5cc14b-fb0e-4009-9017-013f953142d3)
-
+Podemos concluir então que a transformação dos dados foi bem sucedida e os gráficos trazem informações claras e objetivas, facilitando o entendimento do seu publico alvo.
 
 ---
 
