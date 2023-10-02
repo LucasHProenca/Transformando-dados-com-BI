@@ -54,6 +54,9 @@ Foi solicitado também a junção de dados entre "Gerentes" e "Gerenciados" com 
 ![gerentesEEmpregados](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/bbb5fb64-995d-46c9-9df5-e0766b991ed1)
 
 
+![graficoDeBarrasGEE](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/f6493d5b-ff56-4ccb-8a7e-d8cc3e8140f2)
+
+
 E por fim era necessário realizar a conexão entre as tabelas "Departamentos" e "Localizações" afim de unir suas informações disponibilizando uma visualização simples, clara e objetiva dos dados.
 
 ![departamentosELocalizações](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/fb7061f2-b018-4172-8b27-424447bad797)
