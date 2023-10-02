@@ -47,7 +47,7 @@ Anteriormente, a coluna "endereço" era algo complexo, e para melhorar sua visua
 ![mesclaEmpregadosEDpt](https://github.com/LucasHProenca/Transformando-dados-com-BI/assets/106993403/b0aeac00-31af-411a-a699-22a7bf8ea7c9)
 
 
-Dentro da base dados recebida, tinhamos no inicio duas tabelas separadas "departamentos, empregados" então, decidimos mescla-las numa só para facilitar a compreensão dos dados, como mostra o exemplo acima.
+Dentro da base dados recebida, tinhamos no inicio duas tabelas separadas "Departamentos" e "Empregados" então, decidimos mescla-las numa só para facilitar a compreensão dos dados, como mostra o exemplo acima.
 
 Foi solicitado também a junção de dados entre "Gerentes" e "Gerenciados" com isso foi realizada a mescla entre a tabela "empregados" e "departamento dos empregados". Algo importante de se ressaltar, é que neste caso apesar de termos acesso ao identificador do gerente de cada funcionário inicialmente na tabela "empregados" não tinhamos acesso ao seu nome, então não seria possível atribuir os dados dentro da própria tabela, a unica forma encontrada foi realizando a mescla com outra tabela. 
 
