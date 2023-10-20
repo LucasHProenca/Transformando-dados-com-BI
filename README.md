@@ -25,7 +25,8 @@ Esse bootcamp é uma experiência online, um programa com mais de 80 horas de ex
 
 ## ⚙️ Funcionalidades
 
-  - [x] Demonstrativos gráficos;  
+  - [x] Demonstrativos gráficos;
+  - [x] Analise, transformação e interpretação da base de dados.  
 
 ---
 
