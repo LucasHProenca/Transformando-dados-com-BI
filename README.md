@@ -82,6 +82,7 @@ Podemos concluir então que a transformação dos dados foi bem sucedida e os gr
 As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[Power BI](https://reactrouter.com/en/main)**
+-   **[SQL](https://blog.betrybe.com/sql/)**
 
 ---
 
